@@ -7,9 +7,9 @@ cargo run
 ```
 
 ## Crew name
-
+Crew e
 _not chosen yet_
 
 ## Members
-
+evelyn
 - _nobody has signed on yet_
